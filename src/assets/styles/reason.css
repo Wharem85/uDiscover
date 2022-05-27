@@ -1,0 +1,18 @@
+.content-reason {
+	background-image: linear-gradient(to top, #5381d7, white);
+	text-align: center;
+	height: 700px;
+}
+
+.title-reason {
+	color:#5381d7;
+	font-weight: bold;
+	font-size: 34px
+}
+
+.text-reason {
+	padding-top: 10px;
+	color: #2669cf;
+	font-weight: bold;
+	font-size: 18px
+}

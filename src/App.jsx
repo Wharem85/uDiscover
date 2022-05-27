@@ -1,6 +1,8 @@
 import React from 'react';
-import Header from './containers/Header';
-import Home from './containers/Home';
+import Header from './components/Header';
+import Home from './components/Home';
+import Reason from './components/Reason';
+import DemoDay from './components/DemoDay';
 import './assets/styles/App.css';
 
 function App() {
@@ -8,6 +10,8 @@ function App() {
     <div className="App">
       <Header />
       <Home />
+      <Reason />
+      <DemoDay />
     </div>
   );
 }

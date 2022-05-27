@@ -13,7 +13,7 @@ const Header = () => {
 				<a href="" className="title">Blog</a>
 				<a href="" className="title">Admisiones</a>
 				<a href="" className="title">Plataforma uDiscover</a>
-				<a href="" className="title" >Contactanos</a>
+				<a href="" className="title-color" >Contactanos</a>
 			</div>
 		</header>
 	);
