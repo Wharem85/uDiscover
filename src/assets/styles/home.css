@@ -1,11 +1,10 @@
 .container{
 	background-image: linear-gradient(to bottom, #4675cf, white);
-	padding-top: 10px;
-	height: 800px
+	height: 800px;
 }
 
 .text-title {
-	color: #ffffff;
+	color: #3069bd;
 	font-size: 82px;
 	font-weight: bold;
 }

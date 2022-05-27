@@ -1,0 +1,54 @@
+.container-text {
+	display: flex;
+	width: 100%;
+	background-color: #4373cf;
+	justify-content: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.content-title-edu {
+	width: 65%;
+	padding-left: 20%;
+	margin: 0;
+}
+
+.page-title {
+	font-size: 57px;
+	color: #fff;
+	font-weight: bold;
+	font-family: Poppins,Sans-Serif;
+	margin: 0;
+	text-shadow: -3px 3px 0 rgba(61.894565217391296,107.82999527410207,166.5,.98);
+}
+
+.more {
+	color: #73ebaa;
+}
+
+.human {
+	color: #ffc83d;
+}
+
+.content-metods {
+	margin-right: 10%;
+}
+
+.text-title-metods {
+	width: 90%;
+	box-sizing: border-box;
+	color: white;
+	font-size: 23px;
+	font-weight: bold;
+	padding-bottom: 15px;
+}
+
+.text-metods {
+	width: 90%;
+	color: white;
+	font-size: 16px;
+}
+
+.color-text {
+	color: #73ebaa;
+}
