@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import colombia from '../assets/img/colombia.png'
 import '../assets/styles/plans.css';

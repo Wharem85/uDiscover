@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import Register from '../containers/Register';
 import arrow from '../assets/img/arrow.png';

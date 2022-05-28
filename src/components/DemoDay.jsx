@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import demo from '../assets/img/demo.png';
 import '../assets/styles/demoDay.css';

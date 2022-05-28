@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import icon1 from '../assets/img/icon1.png';
 import icon2 from '../assets/img/icon2.png';

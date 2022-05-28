@@ -1,0 +1,99 @@
+.content-footer {
+	background-image: linear-gradient(to bottom, #3f6fc8, #2e5b89);
+}
+
+.container-footer {
+	display: flex;
+	padding: 0 8%;
+	margin: 0;
+}
+
+.content-img-footer {
+	margin-right: 150px;
+}
+
+.contact {
+	display: block;
+	padding-right: 150px;
+	margin: 0;
+	width: 250px
+}
+
+.img-contact {
+	width: 18px;
+	padding-right: 5px;
+}
+
+.title-contact {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.number  {
+	color:white;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.correo {
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.content-correo {
+	padding-top: 5px;
+}
+
+.admi {
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.icon-mail {
+	width: 18px;
+	padding-right: 10px;
+}
+
+.content-follow {
+	width: 370px;
+	padding-right: 150px
+}
+
+.img-follow{
+	padding-bottom: 20px;
+}
+
+.icon-follow {
+	padding-right: 10px;
+}
+
+.edu {
+	color:white;
+	font-size: 16px;
+}
+
+.politic {
+	color:white;
+	font-size: 16px;
+	padding-top: 10px;
+}
+
+.img-aliados {
+	 padding-right: 80px;
+}
+
+.content-copy {
+	padding: 50px 0 20px 0;
+	margin: 0;
+	text-align: center;
+}
+
+.text-copy {
+	color:white;
+	font-size:  14px;
+	margin: 0;
+}
+

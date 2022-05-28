@@ -7,6 +7,8 @@ import Text from './components/Text';
 import Discover from './components/Discover';
 import Plan from './components/Plan';
 import Form from './components/FormDiscover';
+import Footer from './components/Footer';
+import Whatsapp from './containers/Whatsapp';
 import './assets/styles/App.css';
 
 function App() {
@@ -20,6 +22,8 @@ function App() {
       <Text />
       <Plan />
       <Form />
+      <Whatsapp />
+      <Footer />
     </div>
   );
 }
