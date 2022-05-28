@@ -5,6 +5,8 @@ import Reason from './components/Reason';
 import DemoDay from './components/DemoDay';
 import Text from './components/Text';
 import Discover from './components/Discover';
+import Plan from './components/Plan';
+import Form from './components/Form';
 import './assets/styles/App.css';
 
 function App() {
@@ -16,6 +18,8 @@ function App() {
       <Reason />
       <DemoDay />
       <Text />
+      <Plan />
+      <Form />
     </div>
   );
 }

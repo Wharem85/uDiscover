@@ -1,0 +1,119 @@
+.content-plans {
+	display: flex;
+	padding: 0 17%;
+	background:#4373cf;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+.container-plans {
+	border: 5px solid #7ed2e6;
+	margin-right: 20px;
+	border-radius: 15px;
+	width: 100%;
+}
+
+.content-pay {
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.text-pay {
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Poppins;
+}
+
+.text-type {
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.divide {
+	width: 90%;
+	border-bottom: 2px solid #7ed2e6;
+	display: flex;
+	margin-left: 15px;
+}
+
+.img-colombia {
+	text-align: center;
+}
+
+.pay {
+	text-align: center;
+	height: 44px;
+	border: 4px  solid #f68625;
+	border-radius: 10px;
+}
+
+.pay-month {
+	color: white;
+	font-size: 20px;
+	margin: 0;
+	padding-top: 10px;
+	font-weight: bold;
+}
+
+.content-price {
+	padding-left: 5px;
+}
+
+.price {
+	text-decoration: line-through;
+	color: white;
+	font-size: 18px;
+}
+
+.savings {
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.benefits {
+	background-color: #00b6a2;
+	margin: 8px;
+	border-radius: 10px;
+	height: 140px;
+}
+
+.benefit-price {
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.benefits-text {
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.text-small {
+	font-size: 12px;
+}
+
+.content-plans-button {
+	text-align: center;
+	padding: 15px 0;
+}
+
+.button-plans {
+	background-color: #f68625;
+	color: white;
+	width: 170px;
+	height: 40px;
+	border-radius: 30px;
+	font-size: 14px;
+	font-weight: bold;
+	border-style: none;
+}
+
+.spa {
+	height: 90px;
+}
