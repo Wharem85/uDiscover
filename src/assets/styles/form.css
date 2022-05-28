@@ -1,0 +1,73 @@
+.background-form {
+	background-color: #4373cf;
+	width: 100%;
+	padding-bottom: 50px;
+}
+
+.content-form {
+	text-align: center;
+	display: flex;
+	margin: 0 28%;
+	padding: 10px;
+	background-color: #ffcd19;
+	border-left: 10px solid #30cf86;
+	border-top: 10px solid #30cf86;
+	border-bottom: 5px solid #30cf86;
+	border-radius: 20px;
+}
+
+.container-form {
+	padding-left: 10px;
+	width: 50%
+}
+
+.content-image-form {
+	text-align: left;
+}
+
+.arrow {
+	padding: 0;
+	margin: 0;
+	width: 70px;
+}
+
+.register {
+	color: white;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	padding: 10px 0;
+	margin: 0;
+}
+
+.register-text {
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	padding-bottom: 50px;
+}
+
+.divide-form {
+	height: 1px;
+	width: 100%;
+	background-color: white
+}
+
+.proces {
+	text-align: left;
+	padding-top: 10px;
+	font-size: 12px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.color-register {
+	text-decoration: none;
+	color: #3e69c5
+}
+
+.line {
+	text-decoration: underline;
+}
